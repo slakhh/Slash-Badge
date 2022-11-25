@@ -1,0 +1,7 @@
+ * Ejecutar:
+
+ node .
+
+- O
+
+ nodemon
